@@ -1,5 +1,6 @@
 # Buffers, Windows, and Tabs
 
+Jika kamu menggunakan editor teks modern, mungkin kamu familier dengan 
 If you have used a modern text editor, you are probably familiar with windows and tabs. Vim has three abstractions instead of two: buffers, windows, and tabs.
 
 In this chapter, I will explain how buffers, windows, and tabs work in Vim.
