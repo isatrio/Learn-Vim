@@ -1,7 +1,7 @@
-# Learn Vim (the Smart Way)
+# Belajar Menggunakan Vim (Cara Cerdas)
 
-## What is this about?
-*Learn Vim (the Smart Way)* is a book to learn the good parts of Vim.
+## Tentang apakah ini?
+*Belajar Vim (cara cerdas)* adalah sebuah buku untuk mempelajari Vim di bagian terbaiknya.
 
 ## Table Of Contents (In Progress)
 - Ch 0     - Learn Vim the Smart Way
@@ -28,6 +28,7 @@
 # Translations
 - [Learn-Vim 中文翻译](https://github.com/wsdjeg/Learn-Vim_zh_cn)(`zh-CN`)
 - [Learn-Vim Spanish](https://github.com/victorhck/learn-Vim-es)(`es`) 
+- [Learn-Vim Bahasa Indonesia](https://github.com/)(`id`)
 
 # License & Copyright
 The materials here are all ©2020 Igor Irianto.
